@@ -26,6 +26,6 @@ Programming Assignment 3:
 - [3-2: Maximum Value of the Loot (Fractional Knapsack)](https://github.com/NouraAlgohary/Data-Structures-and-Algorithms-Specialization/blob/main/Algorithmic%20Toolbox/W3%20-%20Maximum%20Value%20of%20the%20Loot%20(Fractional%20Knapsack).cpp)
 - [3-3: Car Fueling](https://github.com/NouraAlgohary/Data-Structures-and-Algorithms-Specialization/blob/main/Algorithmic%20Toolbox/W3%20-%20%20Car%20Fueling.cpp)
 - [3-4: Maximum Advertisement Revenue (Maximum Dot Product)](https://github.com/NouraAlgohary/Data-Structures-and-Algorithms-Specialization/blob/main/Algorithmic%20Toolbox/W3%20-%20Maximum%20Advertisement%20Revenue%20(Maximum%20Dot%20Product).cpp)
-- [3-5: Collecting Signatures (Covering Segments by Points)]
-- [3-6: Maximum Number of Prizes (Different Summands)]
-- [3-7: Maximum Salary (Largest Number)]
+- [3-5: Collecting Signatures (Covering Segments by Points)](https://github.com/NouraAlgohary/Data-Structures-and-Algorithms-Specialization/blob/main/Algorithmic%20Toolbox/W3%20-%20Collecting%20Signatures%20(Covering%20Segments%20by%20Points).cpp)
+- 3-6: Maximum Number of Prizes (Different Summands)
+- [3-7: Maximum Salary (Largest Number)](https://github.com/NouraAlgohary/Data-Structures-and-Algorithms-Specialization/blob/main/Algorithmic%20Toolbox/W3%20-%20Maximum%20Salary%20(Largest%20Number).cpp)
